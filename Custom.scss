@@ -1,0 +1,22 @@
+$primary: blue;
+$secondary: grey;
+.bg-1{
+  background-color: #98C1D9;
+}
+.jumbotron-fluid{
+  color: $secondary;
+}
+.footer {
+
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+.pagination {
+  display: inline-block;
+  position: center;
+  padding: 10px;
+}
+
+
+@import "scss/bootstrap";
